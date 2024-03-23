@@ -17,9 +17,6 @@
 ### Vibing to
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/31phlsrgqwjg4nf5a6l6fl7nz6ki)
 
-<a href="https://github.com/mfts/webwonder07/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mfts/webwonder07" />
-</a>  
 
 ### 👨‍💻 Where I spent time on this week
 <!--START_SECTION:waka-->
